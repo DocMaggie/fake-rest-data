@@ -1,0 +1,26 @@
+[
+    {
+        "username": "Robi",
+        "role": "admin",
+        "creationDate": "2015-07-05T12:00:00",
+        "isActive": true
+    },
+    {
+        "username": "Bobi",
+        "role": "client",
+        "creationDate": "2019-08-22T14:33:35",
+        "isActive": true
+    },
+    {
+        "username": "Smobi",
+        "role": "client",
+        "creationDate": "2017-01-02T11:05:23",
+        "isActive": false
+    },
+    {
+        "username": "Cuki",
+        "role": "client",
+        "creationDate": "2023-06-14T08:01:21",
+        "isActive": true
+    }
+]

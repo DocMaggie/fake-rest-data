@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "Spearman",
+    "unitType": 0,
+    "hitpoints": 45,
+    "attack": 3,
+    "damageType": 0,
+    "armor": {
+      "melee": 0,
+      "pierce": 0
+    },
+    "cost": {
+      "wood": 25,
+      "food": 35,
+      "gold": 0,
+      "stone": 0
+    }
+  },
+  {
+    "id": 2,
+    "name": "Skirmisher",
+    "unitType": 1,
+    "hitpoints": 30,
+    "attack": 2,
+    "damageType": 1,
+    "range": 4,
+    "armor": {
+      "melee": 0,
+      "pierce": 3
+    },
+    "cost": {
+      "wood": 35,
+      "food": 25,
+      "gold": 0,
+      "stone": 0
+    }
+  },
+  {
+    "id": 3,
+    "name": "Militia",
+    "unitType": 0,
+    "hitpoints": 40,
+    "attack": 4,
+    "damageType": 0,
+    "armor": {
+      "melee": 0,
+      "pierce": 1
+    },
+    "cost": {
+      "wood": 0,
+      "food": 60,
+      "gold": 20,
+      "stone": 0
+    }
+  },
+  {
+    "id": 4,
+    "name": "Archer",
+    "unitType": 1,
+    "hitpoints": 30,
+    "attack": 4,
+    "damageType": 1,
+    "range": 4,
+    "armor": {
+      "melee": 0,
+      "pierce": 0
+    },
+    "cost": {
+      "wood": 25,
+      "food": 0,
+      "gold": 45,
+      "stone": 0
+    }
+  },
+  {
+    "id": 5,
+    "name": "Knight",
+    "unitType": 2,
+    "hitpoints": 100,
+    "attack": 10,
+    "damageType": 0,
+    "armor": {
+      "melee": 2,
+      "pierce": 2
+    },
+    "cost": {
+      "wood": 0,
+      "food": 60,
+      "gold": 75,
+      "stone": 0
+    }
+  },
+  {
+    "id": 6,
+    "name": "Mangonel",
+    "unitType": 0,
+    "hitpoints": 50,
+    "attack": 40,
+    "damageType": 1,
+    "range": 7,
+    "armor": {
+      "melee": 0,
+      "pierce": 6
+    },
+    "cost": {
+      "wood": 160,
+      "food": 0,
+      "gold": 135,
+      "stone": 0
+    }
+  },
+  {
+    "id": 7,
+    "name": "Cavalry Archer",
+    "unitType": 2,
+    "hitpoints": 50,
+    "attack": 6,
+    "damageType": 1,
+    "range": 4,
+    "armor": {
+      "melee": 0,
+      "pierce": 0
+    },
+    "cost": {
+      "wood": 40,
+      "food": 0,
+      "gold": 60,
+      "stone": 0
+    }
+  }
+]
